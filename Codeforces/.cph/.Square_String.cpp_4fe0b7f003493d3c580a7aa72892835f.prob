@@ -1,0 +1,1 @@
+{"name":"Local: Square_String","url":"f:\\Codeforces\\Square_String.cpp","tests":[{"id":1644937627681,"input":"10\na\naa\naaa\naaaa\nabab\nabcabc\nabacaba\nxxyy\nxyyx\nxyxy","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\Codeforces\\Square_String.cpp","group":"local","local":true}

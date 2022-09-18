@@ -1,0 +1,1 @@
+{"name":"Local: Rank_List","url":"e:\\Programming\\Codeforces\\Rank_List.cpp","tests":[{"id":1660659968342,"input":"7 2\n4 10\n4 10\n4 10\n3 20\n2 1\n2 1\n1 10","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Programming\\Codeforces\\Rank_List.cpp","group":"local","local":true}

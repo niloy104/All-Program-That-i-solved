@@ -1,0 +1,1 @@
+{"name":"Local: Brains_Photo","url":"f:\\Codeforces_cpp\\Brains_Photo.cpp","tests":[{"id":1631717835320,"input":"5 5\nW G B Y M\nG B Y M C\nB Y M C W\nY M C W G\nM C W G B","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\Codeforces_cpp\\Brains_Photo.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: Casimirs_String_Solitaire","url":"e:\\Programming\\Codeforces\\Casimirs_String_Solitaire.cpp","tests":[{"id":1663418437055,"input":"6\nABACAB\nABBA\nAC\nABC\nCABCBB\nBCBCBCBCBCBCBCBC","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Programming\\Codeforces\\Casimirs_String_Solitaire.cpp","group":"local","local":true}

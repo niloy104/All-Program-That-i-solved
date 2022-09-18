@@ -1,0 +1,1 @@
+{"name":"Local: Short_Substrings","url":"f:\\Codeforces\\Short_Substrings.cpp","tests":[{"id":1637506619519,"input":"4\nabbaac\nac\nbccddaaf\nzzzzzzzzzz","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\Codeforces\\Short_Substrings.cpp","group":"local","local":true}
